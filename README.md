@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aeina9. I'm a beginner at coding and programming!
+- 👀 Interested in learning more programming languages; more specifically json and java/javascript.
+- 💞 I’m looking to collaborate on small games to practice coding with!
+- 🌱 Currently practicing/learning: Python, HTML/CSS.
+- 🤔 Currently working on: Making simple Discord py bots!
+- 🖥️ Programming languages I'm sort of confident in: C, Python
