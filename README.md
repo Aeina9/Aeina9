@@ -1,4 +1,4 @@
-- Hi, I’m Amy Nguyen or @Aeina9, a senior computer science student at pursuing a BA in Computer Science at the University of Minnesota.
+- Hi, I’m Amy Nguyen or @Aeina9, a senior computer science student pursuing a BA in Computer Science at the University of Minnesota.
 - I'm currently interested in developing my overall programming skills, and applying my studies to real-world applications!
 - Practicing/learning: Python, HTML/CSS.
 - Programming languages I have experience in: C/C++ , Java, Python, HTML/CSS
